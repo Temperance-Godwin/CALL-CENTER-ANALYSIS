@@ -5,7 +5,7 @@
 
 This analysis involves examining various aspects of a call center's operations to improve performance, efficiency, and customer satisfaction.
 
-## TOOLS USED
+## TOOL USED
 Microsoft Excel
 
 ## PROBLEM STATEMENT
@@ -15,5 +15,9 @@ Microsoft Excel
 4. How satisfied are the customers with their services?
 5. What is the overall customer satisfaction score?
 
-## Skills/Concepts Demonstrated
-Data Cleaing
+## DATA SOURCE
+
+
+## DATA ANALYSIS/VISUALIZATION
+![Call_Center_Dashboard]
+
