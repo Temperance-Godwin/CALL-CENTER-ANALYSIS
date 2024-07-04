@@ -8,7 +8,7 @@ This analysis involves examining various aspects of a call center's operations t
 ## TOOL USED
 Microsoft Excel
 
-## PROBLEM STATEMENT
+## PROBLEM STATEMENTS
 1. What is the reason for most calls?
 2. Which day of the week does the call center receive calls the most?
 3. Which channel is the most preffered by customers?
